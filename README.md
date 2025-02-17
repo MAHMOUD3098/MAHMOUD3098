@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud3098&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud3098" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Angular, and .Net Core**
+- 🌱 **Experienced Full Stack Developer, .NET Core and Angular, and Flutter Developer**
 
-- 👯 I’m looking to collaborate on **Flutter, Machine Learning and Deep Learning Projects**
-
-- 💬 Ask me about **C++, C#, and Python**
+- 💬 Ask me about **.Net, Angular, Flutter, and Python & C#**
 
 - 📫 How to reach me **mahmoud.salem1998@gmail.com**
 
